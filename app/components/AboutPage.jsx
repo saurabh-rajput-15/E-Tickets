@@ -71,6 +71,7 @@ const AboutPage = () => {
             </button>
           </div>
         </div>
+        
       ) : (
         <p className="text-lg text-center text-gray-700">Sorry, we don't have information about this place.</p>
       )}
